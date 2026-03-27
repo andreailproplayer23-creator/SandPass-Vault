@@ -22,7 +22,7 @@
 
 Per utilizzare **SandPassVault** sul tuo PC, segui questi semplici passaggi:
 
-1. Vai nella sezione **[Releases](https://github.com/tuo-username/SandPass-Vault/releases)** di questo repository.
+1. Vai nella sezione **[Releases](https://github.com/andreailproplayer23-creator/SandPass-Vault/releases)** di questo repository.
 2. Scarica l'ultimo file **`SandPassVault_Setup.exe`**.
 3. Avvia l'installer e segui le istruzioni a schermo.
 
